@@ -1,5 +1,5 @@
 <h1>### Hi,👋I'm Parthik Kumar Das</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthikdas&label=Profile%20views&color=0e75b6&style=flat" alt="parthikdas" /> </p>
+<p align="left">![visitors](https://visitor-badge.laobi.icu/badge?parthikdas=parthikdas) </p>
 <!--
 **parthikdas/parthikdas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
