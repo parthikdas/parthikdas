@@ -1,6 +1,6 @@
 ### Hi,👋I'm Parthik Kumar Das
-
-<img height="64px" src="https://cdn.svgporn.com/logos/css.svg">
+<hr>
+<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 <!--
 **parthikdas/parthikdas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
