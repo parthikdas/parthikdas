@@ -1,4 +1,4 @@
-<h1>### Hi,👋I'm Parthik Kumar Das</h1>
+<h1>Hi,👋I'm Parthik Kumar Das</h1>
 <!--
 **parthikdas/parthikdas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
