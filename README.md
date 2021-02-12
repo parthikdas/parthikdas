@@ -1,7 +1,6 @@
 <h1>### Hi,👋I'm Parthik Kumar Das</h1>
 <br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=parthikdas.parthikdas)
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=parthikdas.visitor-badge)
 <!--
 **parthikdas/parthikdas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
