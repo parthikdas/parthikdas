@@ -11,7 +11,7 @@
 <a href="https://www.leetcode.com/parthik_das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parthik_das" height="30" width="40" /></a> &nbsp;&nbsp;
 </p>
 
-<h3 align="left">Skills:</h3>
+<!--<h3 align="left">Skills:</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
@@ -71,8 +71,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 </p>
-
-
+-->
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthikdas&show_icons=true&locale=en&layout=compact" alt="parthikdas" /></p>
 
 <p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthikdas&show_icons=true&locale=en" alt="parthikdas" /></p>
